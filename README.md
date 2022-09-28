@@ -1,3 +1,10 @@
+[Exercise] Loop Until Valid Input is Received
+
+https://proffesso.com/students/courses/274/sections/675/lessons/4808
+
+
+
+
 # Starter Project for Java and the Eclipse IDE
 
 A template starter for instantiating a plain java project, with Eclipse metadata
