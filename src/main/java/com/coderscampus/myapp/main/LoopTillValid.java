@@ -14,13 +14,15 @@ public class LoopTillValid {
 	private void execute() {
 		// Your code goes here, not in the main() method
 		
-		int numberOut = 999;
+//		int numberOut;
+		
+		int numberOut = numberBetween50And300();
 //		I don't understand why, but if I do not declare the numberOut variable outside of the function, I get an error.
 //		And if I do declare it, the value returned by the function numberBetween50And300 is overwriten by the 999 value above....
 //		to further investigate.
 		
 		
-		numberBetween50And300();
+		
 		
 		System.out.println("The number you typed in was:" + numberOut);
 		
